@@ -36,3 +36,7 @@ python3 llm_rtl.py "4-bit counter with reset"
 - Add a testbench to check the logic is correct, not just that it compiles
 - Run place and route to produce a layout file
 - Generate many designs automatically and compare their statistics
+
+## Author
+
+Payal Mistry — Computer Science, Portland State University
